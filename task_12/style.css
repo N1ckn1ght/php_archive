@@ -1,0 +1,8 @@
+.parent 
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 320px;
+	padding-bottom: 2px;
+}
